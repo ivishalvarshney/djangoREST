@@ -9,9 +9,11 @@ Check the version by python -m django –version
 3) Django-rest-framework
 
 ###### To install djangorestframework : 
+```
 pip install djangorestframework
 pip install markdown       # Markdown support for the browsable API.
 pip install django-filter  # Filtering support
+```
 
 ## STEP 1 : Project Installation
 
