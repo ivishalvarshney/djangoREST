@@ -6,7 +6,7 @@ This repo have python django 2.1 framework with REST features. This is mostly fo
 Check the version by python --version
 2)	Django version >= 2.1
 Check the version by python -m django –version
-3) Django-rest-framework
+3) [Django-rest-framework] (https://github.com/encode/django-rest-framework/tree/master)
 
 ###### To install djangorestframework : 
 ```
