@@ -3,9 +3,9 @@ This repo have python django 2.1 framework with REST features. This is mostly fo
 
 ###### Prerequisites : 
 1)	Python version >= 3.6.5
-Check the version by python --version
+Check the version by `python --version`
 2)	Django version >= 2.1
-Check the version by python -m django –version
+Check the version by `python -m django –version`
 3) [Django-rest-framework] (https://github.com/encode/django-rest-framework/tree/master)
 
 ###### To install djangorestframework : 
